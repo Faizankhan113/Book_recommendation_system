@@ -17,9 +17,11 @@ This system follows a **Hybrid Recommendation Approach**.
 Built using **Python, Pandas, and Dash**
 
 
-# main.py contains the final system with the website view by using dash.
-# main.jpynb contains only the core logic of the recommendation system with step by step explanation.
-# while the csv files contains the data on which the system is build.
+-> main.py contains the final system with the website view by using dash.
+
+-> main.jpynb contains only the core logic of the recommendation system with step by step explanation.
+
+-> The csv files contains the data on which the system is build.
 
 
 # ⚙️ How the Recommendation Works:
