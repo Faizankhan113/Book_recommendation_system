@@ -36,6 +36,8 @@ Built using **Python, Pandas, and Dash**
 8. The **Top 5 books** are recommended  
 
 
+**Output images is available in the output folder**
+
 > **Note:**  
 > This system does **not** use machine learning models.  
 > All recommendations are generated using **custom scoring logic** for clarity and efficiency.
